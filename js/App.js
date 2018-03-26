@@ -10,8 +10,8 @@ function randomString() {
 
 var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
 var myHeaders = {
-	'X-Client-Id': 'X-Client-Id',
-	'X-Auth-Token': 'X-Auth-Token'
+	'X-Client-Id': '3007',
+	'X-Auth-Token': 'c210a25f36491e74805b1285286f38ef'
 };
 	
 
